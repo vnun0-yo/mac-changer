@@ -43,4 +43,4 @@ sudo chmod +x /usr/bin/YenMacChanger
 YenMacChanger -i eth0 -m 00:11:22:33:44:55
 ```
 
-# the tool by - Yen's
+# the tool by - Yen
